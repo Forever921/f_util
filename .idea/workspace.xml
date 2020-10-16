@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d53ef193-ea11-4eff-9302-e7b428de28e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="810BBMJ22D87" />
+  <component name="ProjectId" id="1itQ2AnXHGTMy1qcEnEHAMjKVGu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d53ef193-ea11-4eff-9302-e7b428de28e3" name="Default Changelist" comment="" />
+      <created>1602724198333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602724198333</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="178" key="#Web_Browsers" timestamp="1602813581361">
+      <screen x="0" y="23" width="1920" height="980" />
+    </state>
+    <state x="560" y="178" key="#Web_Browsers/0.23.1920.980@0.23.1920.980" timestamp="1602813581361" />
+    <state width="1878" height="284" key="GridCell.Tab.0.bottom" timestamp="1602813613150">
+      <screen x="0" y="23" width="1920" height="980" />
+    </state>
+    <state width="1878" height="284" key="GridCell.Tab.0.bottom/0.23.1920.980@0.23.1920.980" timestamp="1602813613150" />
+    <state width="1878" height="284" key="GridCell.Tab.0.center" timestamp="1602813613149">
+      <screen x="0" y="23" width="1920" height="980" />
+    </state>
+    <state width="1878" height="284" key="GridCell.Tab.0.center/0.23.1920.980@0.23.1920.980" timestamp="1602813613149" />
+    <state width="1878" height="284" key="GridCell.Tab.0.left" timestamp="1602813613148">
+      <screen x="0" y="23" width="1920" height="980" />
+    </state>
+    <state width="1878" height="284" key="GridCell.Tab.0.left/0.23.1920.980@0.23.1920.980" timestamp="1602813613148" />
+    <state width="1878" height="284" key="GridCell.Tab.0.right" timestamp="1602813613149">
+      <screen x="0" y="23" width="1920" height="980" />
+    </state>
+    <state width="1878" height="284" key="GridCell.Tab.0.right/0.23.1920.980@0.23.1920.980" timestamp="1602813613149" />
+  </component>
+</project>

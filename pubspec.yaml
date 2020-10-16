@@ -2,7 +2,7 @@ name: f_util
 description: A new Flutter plugin.
 version: 0.0.1
 author: Forever_yyx
-homepage: 
+homepage:
 
 environment:
   sdk: ">=2.7.0 <3.0.0"

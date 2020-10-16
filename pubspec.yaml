@@ -1,8 +1,8 @@
 name: f_util
 description: A new Flutter plugin.
 version: 0.0.1
-author: Forever_yyx
-homepage:
+author: Forever921
+homepage: https://github.com/Forever921/f_util
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
